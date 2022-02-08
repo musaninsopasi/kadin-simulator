@@ -1,1 +1,1 @@
-# kadin-simulator
+bu proje mizah amaçlı yapılmaktadır
