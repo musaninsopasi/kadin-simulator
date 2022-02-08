@@ -6,7 +6,7 @@
 		 "Mansur Kürşad", "Mansur", "Kürşat", "Kürşad", "Miraç", "Yücel", "Kubilay", "Hayati", "Serdal", // ikinci satır
 		  "Bünyamin" , "Semih", "Mehmet", "Mehmet Ali", "Mehmet Can", "Berat", "Abdurrahman", "Gökberk", // üçüncü satır
 		   "Ali", "Yasin", "Eyüp", "Celal Efe", "Celal", "Efe", "Barış", "Ahmet", "Hasan", "Tabuay", "Abdullah", "" ]
-		// const kürtName = ["Rojda" ,"Rojin", "Bawer", "Havin", "Azad" , "Reşit"];
+		const kürtName = ["Rojda" ,"Rojin", "Bawer", "Havin", "Azad" , "Reşit"];
 		
 		// section of situations
 	
