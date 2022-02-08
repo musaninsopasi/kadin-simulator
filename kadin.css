@@ -1,0 +1,19 @@
+#hesap {
+	border-radius: 2px;
+	border-color: yellow;
+	background-image: url(ümitcan_button.fw.png);
+	width: 120px;
+	height: 30px;
+}
+
+#hesap a {
+	text-decoration: none;
+	color: black;
+	opacity: 50%;
+	margin-bottom: 12px;
+}
+
+#hesap:hover {
+	background-image: url(aleyna.fw.png);
+}
+
